@@ -1,0 +1,8 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Local output
+out/
+*.log
+node_modules/

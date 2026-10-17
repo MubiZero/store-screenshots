@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mubizero-store-screenshots",
+  "owner": {
+    "name": "MubiZero",
+    "url": "https://github.com/MubiZero"
+  },
+  "metadata": {
+    "description": "Store-listing screenshot maker for Claude Code: headline, device frame and one background that runs through the whole row."
+  },
+  "plugins": [
+    {
+      "name": "store-screenshots",
+      "source": ".",
+      "description": "Turns raw app screenshots into App Store and Google Play listing images in the style of the big food and ride apps: a flat brand colour, a short headline, the phone bleeding off the bottom, dishes or shapes and a line running through the whole row. Zero dependencies (Node + Chrome).",
+      "version": "1.0.0",
+      "license": "MIT",
+      "homepage": "https://github.com/MubiZero/store-screenshots",
+      "category": "design",
+      "keywords": ["app-store", "google-play", "screenshots", "aso", "marketing", "mobile", "listing"]
+    }
+  ]
+}

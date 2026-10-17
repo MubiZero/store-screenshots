@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "store-screenshots",
+  "displayName": "Store Screenshots",
+  "version": "1.0.0",
+  "description": "Makes App Store and Google Play listing screenshots from raw app screenshots: headline, device frame and a background that runs through the whole row. Config-driven, zero dependencies (Node + Chrome).",
+  "author": {
+    "name": "MubiZero",
+    "url": "https://github.com/MubiZero"
+  },
+  "homepage": "https://github.com/MubiZero/store-screenshots",
+  "repository": "https://github.com/MubiZero/store-screenshots",
+  "license": "MIT",
+  "keywords": ["app-store", "google-play", "screenshots", "aso", "marketing", "mobile", "listing"],
+  "skills": "./skills/"
+}
